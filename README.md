@@ -1,6 +1,6 @@
 # The-GitHub-History-of-the-Scala-Language
 
-As part of my [ DataCamp program ](#https://www.datacamp.com/profile/andreigegliuk) for becoming a data scientist, I worked on a project using Pandas for data analysis. 
+As part of my [ DataCamp ](#https://www.datacamp.com/profile/andreigegliuk) program for becoming a data scientist, I worked on a project using Pandas for data analysis. 
 I learned the fundamental concepts and techniques for working with data in Python, including how to clean, prepare, and manipulate data using Pandas.
 
 In addition to these skills, I also had the opportunity to apply my knowledge by working on a real-world project analyzing the repository data of the Scala programming language. 
