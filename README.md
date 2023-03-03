@@ -1,6 +1,6 @@
 # The GitHub History of the *Scala* Language
 
-                         ![download1](https://user-images.githubusercontent.com/120349975/222654824-f85fd298-cc65-475f-883b-bb28cbddcac7.png)
+![download1](https://user-images.githubusercontent.com/120349975/222654824-f85fd298-cc65-475f-883b-bb28cbddcac7.png)
 
 
 As part of my [ DataCamp ](https://www.datacamp.com/profile/andreigegliuk) program for becoming a data scientist, I worked on a project using Pandas for data analysis. 
