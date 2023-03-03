@@ -1,4 +1,6 @@
-# The-GitHub-History-of-the-Scala-Language
+# The GitHub History of the *Scala* Language
+
+https://blog.stoneriverelearning.com/wp-content/uploads/2016/05/Scala-e1471974955182.jpg
 
 As part of my [ DataCamp ](https://www.datacamp.com/profile/andreigegliuk) program for becoming a data scientist, I worked on a project using Pandas for data analysis. 
 I learned the fundamental concepts and techniques for working with data in Python, including how to clean, prepare, and manipulate data using Pandas.
